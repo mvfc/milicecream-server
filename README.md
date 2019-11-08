@@ -1,5 +1,5 @@
 # milicecream-server
-Back-end written in NodeJS
+Back-end written in NodeJS using Express and Mongoose
 
 This is the backend for an application made for selling products inside our apartment building.
 
