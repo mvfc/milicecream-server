@@ -1,6 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/mvfc/milicecream-server/badge.svg?branch=master)](https://coveralls.io/github/mvfc/milicecream-server?branch=master)
-
-
 # milicecream-server
 Back-end written in NodeJS using Express and Mongoose
 
