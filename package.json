@@ -1,0 +1,31 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "API feita seguindo o tutorial de Node.JS da RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Matheus Vitorio Flor Cunha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.6",
+    "pug": "^2.0.4",
+    "require-dir": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mvfc/tutoriais-rocketseat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mvfc/tutoriais-rocketseat/issues"
+  },
+  "homepage": "https://github.com/mvfc/tutoriais-rocketseat#readme"
+}
